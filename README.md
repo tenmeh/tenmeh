@@ -44,14 +44,6 @@ show what is coming. I write about how I build them on
   </picture>
 </a>
 
-### Latest from the blog
-
-<!-- BLOG:START -->
-- [rewind 0.3.0: show what changed](https://tenmeh.github.io/posts/2026-10-02-rewind-0-3-0/) <sub>02 Oct 2026</sub>
-- [A spinner says wait. A skeleton says what is coming.](https://tenmeh.github.io/posts/2026-09-28-how-bones-began/) <sub>28 Sep 2026</sub>
-- [Undo for Shiny, and the three problems that make it interesting](https://tenmeh.github.io/posts/2026-08-27-undo-for-shiny/) <sub>27 Aug 2026</sub>
-<!-- BLOG:END -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <img alt="In numbers" src="assets/stats-light.svg" width="49%">
@@ -60,6 +52,14 @@ show what is coming. I write about how I build them on
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
   <img alt="Languages" src="assets/languages-light.svg" width="49%">
 </picture>
+
+### Latest from the blog
+
+<!-- BLOG:START -->
+- [rewind 0.3.0: show what changed](https://tenmeh.github.io/posts/2026-10-02-rewind-0-3-0/) <sub>02 Oct 2026</sub>
+- [A spinner says wait. A skeleton says what is coming.](https://tenmeh.github.io/posts/2026-09-28-how-bones-began/) <sub>28 Sep 2026</sub>
+- [Undo for Shiny, and the three problems that make it interesting](https://tenmeh.github.io/posts/2026-08-27-undo-for-shiny/) <sub>27 Aug 2026</sub>
+<!-- BLOG:END -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tenmeh/tenmeh/output/snake-dark.svg">
