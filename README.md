@@ -1,7 +1,7 @@
 <a href="https://tenmeh.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Tanmay Chanda. Notes on R, Shiny, and building things that other people use." src="assets/banner-light.svg" width="100%">
+    <img alt="Tanmay Chanda. Building things" src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
