@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="182" viewBox="0 0 440 182" role="img" aria-label="Languages: R, CSS, JavaScript, HTML, Python">
-<title>Languages: R, CSS, JavaScript, HTML, Python</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="182" viewBox="0 0 440 182" role="img" aria-label="Languages: R, CSS, JavaScript, Python, HTML">
+<title>Languages: R, CSS, JavaScript, Python, HTML</title>
 <style>
   text { font-family: system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ece5d6; }
   .mono { font-family: ui-monospace, 'Cascadia Code', Consolas, 'Liberation Mono', monospace; }
@@ -15,5 +15,5 @@
 
 <text x="28" y="44" class="accent" font-size="20" font-weight="700">Languages</text>
 <clipPath id="bar"><rect x="28" y="66" width="384" height="10" rx="5"/></clipPath>
-<g clip-path="url(#bar)"><rect x="28.0" y="66" width="278.1" height="10" fill="#276DC3"/><rect x="308.1" y="66" width="46.2" height="10" fill="#663399"/><rect x="356.3" y="66" width="33.0" height="10" fill="#f1e05a"/><rect x="391.3" y="66" width="8.4" height="10" fill="#e34c26"/><rect x="401.7" y="66" width="8.3" height="10" fill="#3572A5"/></g><circle cx="34" cy="107" r="6" fill="#276DC3"/><text x="48" y="112" font-size="14">R <tspan class="muted">72.9%</tspan></text><circle cx="234" cy="107" r="6" fill="#663399"/><text x="248" y="112" font-size="14">CSS <tspan class="muted">12.5%</tspan></text><circle cx="34" cy="133" r="6" fill="#f1e05a"/><text x="48" y="138" font-size="14">JavaScript <tspan class="muted">9.1%</tspan></text><circle cx="234" cy="133" r="6" fill="#e34c26"/><text x="248" y="138" font-size="14">HTML <tspan class="muted">2.7%</tspan></text><circle cx="34" cy="159" r="6" fill="#3572A5"/><text x="48" y="164" font-size="14">Python <tspan class="muted">2.7%</tspan></text>
+<g clip-path="url(#bar)"><rect x="28.0" y="66" width="275.4" height="10" fill="#276DC3"/><rect x="305.4" y="66" width="45.7" height="10" fill="#663399"/><rect x="353.1" y="66" width="32.6" height="10" fill="#f1e05a"/><rect x="387.7" y="66" width="12.0" height="10" fill="#3572A5"/><rect x="401.7" y="66" width="8.3" height="10" fill="#e34c26"/></g><circle cx="34" cy="107" r="6" fill="#276DC3"/><text x="48" y="112" font-size="14">R <tspan class="muted">72.2%</tspan></text><circle cx="234" cy="107" r="6" fill="#663399"/><text x="248" y="112" font-size="14">CSS <tspan class="muted">12.4%</tspan></text><circle cx="34" cy="133" r="6" fill="#f1e05a"/><text x="48" y="138" font-size="14">JavaScript <tspan class="muted">9.0%</tspan></text><circle cx="234" cy="133" r="6" fill="#3572A5"/><text x="248" y="138" font-size="14">Python <tspan class="muted">3.7%</tspan></text><circle cx="34" cy="159" r="6" fill="#e34c26"/><text x="48" y="164" font-size="14">HTML <tspan class="muted">2.7%</tspan></text>
 </svg>
