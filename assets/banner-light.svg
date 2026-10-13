@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Tanmay Chanda. Notes on R, Shiny, and building things that other people use.">
-<title>Tanmay Chanda. Notes on R, Shiny, and building things that other people use.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Tanmay Chanda">
+<title>Tanmay Chanda</title>
 <style>
   text { font-family: system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #17202a; }
   .mono { font-family: ui-monospace, 'Cascadia Code', Consolas, 'Liberation Mono', monospace; }
@@ -21,11 +21,7 @@
     <stop offset="1" stop-color="#fbf8f1" stop-opacity="0"/>
   </linearGradient>
 </defs>
-<text x="64" y="84" class="mono accent" font-size="18" letter-spacing="1">R / SHINY / OPEN SOURCE</text>
-<text x="64" y="146" font-size="60" font-weight="700" letter-spacing="-1.5">Tanmay Chanda</text>
-<text x="64" y="184" class="muted" font-size="24">Notes on R, Shiny, and building things</text>
-<text x="64" y="216" class="muted" font-size="24">that other people use.</text>
-<text x="64" y="258" class="mono accent" font-size="19">&gt; install.packages("rewind")<tspan class="cursor">_</tspan></text>
+<text x="64" y="177" font-size="76" font-weight="700" letter-spacing="-2">Tanmay Chanda</text>
 <g transform="translate(760 58)">
   <rect x="-28" y="-26" width="400" height="252" rx="12" fill="#f4efe4" stroke="#cfc5b1"/>
   <g clip-path="url(#skel)">

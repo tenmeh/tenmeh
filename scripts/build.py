@@ -173,11 +173,7 @@ def banner(t):
     <stop offset="1" stop-color="{t['shine']}" stop-opacity="0"/>
   </linearGradient>
 </defs>
-<text x="64" y="84" class="mono accent" font-size="18" letter-spacing="1">R / SHINY / OPEN SOURCE</text>
-<text x="64" y="146" font-size="60" font-weight="700" letter-spacing="-1.5">Tanmay Chanda</text>
-<text x="64" y="184" class="muted" font-size="24">Notes on R, Shiny, and building things</text>
-<text x="64" y="216" class="muted" font-size="24">that other people use.</text>
-<text x="64" y="258" class="mono accent" font-size="19">&gt; install.packages("rewind")<tspan class="cursor">_</tspan></text>
+<text x="64" y="177" font-size="76" font-weight="700" letter-spacing="-2">Tanmay Chanda</text>
 <g transform="translate(760 58)">
   <rect x="-28" y="-26" width="400" height="252" rx="12" fill="{t['bg']}" stroke="{t['border']}"/>
   <g clip-path="url(#skel)">
@@ -185,7 +181,7 @@ def banner(t):
     <rect class="shine" x="0" y="-10" width="160" height="230" fill="url(#glow)"/>
   </g>
 </g>"""
-    return svg(1200, 300, body, t, "Tanmay Chanda. Notes on R, Shiny, and building things that other people use.")
+    return svg(1200, 300, body, t, "Tanmay Chanda")
 
 
 def repo_card(repo, cran, t):
