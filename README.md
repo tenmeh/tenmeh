@@ -14,7 +14,8 @@
 Hi, I'm Tanmay. I make R packages for Shiny. They handle the small things
 that make an app feel finished: undo and redo, and loading placeholders that
 show what is coming. I write about how I build them on
-[my blog](https://tenmeh.github.io).
+[my blog](https://tenmeh.github.io). You can also find me on
+[LinkedIn](https://www.linkedin.com/in/tanmay-chanda/).
 
 ### Packages
 
