@@ -71,12 +71,14 @@ def get_json(url, data=None):
 
 
 def cran_version(pkg):
-    # crandb answers 404 for a package that is not on CRAN. That is expected.
+    # Read CRAN's own page. crandb lags by days after a first release. CRAN
+    # answers 404 for a package that is not on CRAN. That is expected.
     try:
-        info = json.loads(get(f"https://crandb.r-pkg.org/{pkg}"))
+        page = get(f"https://cran.r-project.org/web/packages/{pkg}/index.html").decode()
     except Exception:
         return None
-    return info.get("Version") if info and "Version" in info else None
+    m = re.search(r"<td>Version:</td>\s*<td>([^<]+)</td>", page)
+    return m.group(1).strip() if m else None
 
 
 def own_repos():
