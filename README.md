@@ -11,9 +11,7 @@
   <a href="https://tenmeh.github.io/bones/"><img src="assets/hex/bones.png" alt="bones hex logo" height="130"></a>
 </p>
 
-Hi, I'm Tanmay. I make R packages for Shiny. They handle the small things
-that make an app feel finished: undo and redo, and loading placeholders that
-show what is coming. I write about how I build them on
+Hi, I'm Tanmay. I make R packages. I write about how I build them on
 [my blog](https://tenmeh.github.io). You can also find me on
 [LinkedIn](https://www.linkedin.com/in/tanmay-chanda/).
 
