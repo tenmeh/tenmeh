@@ -9,6 +9,8 @@
   <a href="https://tenmeh.github.io/rewind/"><img src="assets/hex/rewind.png" alt="rewind hex logo" height="130"></a>
   &nbsp;
   <a href="https://tenmeh.github.io/bones/"><img src="assets/hex/bones.png" alt="bones hex logo" height="130"></a>
+  &nbsp;
+  <a href="https://tenmeh.github.io/whence/"><img src="assets/hex/whence.png" alt="whence hex logo" height="130"></a>
 </p>
 
 Hi, I'm Tanmay. I make R packages. I write about how I build them on
@@ -27,6 +29,12 @@ Hi, I'm Tanmay. I make R packages. I write about how I build them on
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/cards/bones-dark.svg">
     <img alt="bones: Content-shaped loading placeholders for Shiny outputs" src="assets/cards/bones-light.svg" width="49%">
+  </picture>
+</a>
+<a href="https://github.com/tenmeh/whence">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/whence-dark.svg">
+    <img alt="whence: Explain where a number came from in Shiny dashboards" src="assets/cards/whence-light.svg" width="49%">
   </picture>
 </a>
 <a href="https://github.com/tenmeh/tanmai-r">

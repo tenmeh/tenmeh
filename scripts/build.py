@@ -21,7 +21,7 @@ from pathlib import Path
 USER = "tenmeh"
 FEED = "https://tenmeh.github.io/index.xml"
 # Public repos only. Private ones must not appear on the profile.
-FEATURED = ["rewind", "bones", "tanmai-r", "tanmai"]
+FEATURED = ["rewind", "bones", "whence", "tanmai-r", "tanmai"]
 
 ROOT = Path(__file__).resolve().parent.parent
 ASSETS = ROOT / "assets"
