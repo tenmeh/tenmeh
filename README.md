@@ -62,10 +62,10 @@ Hi, I'm Tanmay. I make R packages. I write about how I build them on
 ### Latest from the blog
 
 <!-- BLOG:START -->
+- [Where did this number come from?](https://tenmeh.github.io/posts/2026-10-25-whence-on-cran/) <sub>25 Oct 2026</sub>
 - [Recording Shiny demos frame by frame](https://tenmeh.github.io/posts/2026-10-13-recording-shiny-demos/) <sub>13 Oct 2026</sub>
 - [rewind 0.3.0: show what changed](https://tenmeh.github.io/posts/2026-10-02-rewind-0-3-0/) <sub>02 Oct 2026</sub>
 - [A spinner says wait. A skeleton says what is coming.](https://tenmeh.github.io/posts/2026-09-28-how-bones-began/) <sub>28 Sep 2026</sub>
-- [Undo for Shiny, and the three problems that make it interesting](https://tenmeh.github.io/posts/2026-08-27-undo-for-shiny/) <sub>27 Aug 2026</sub>
 <!-- BLOG:END -->
 
 <picture>
