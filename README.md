@@ -11,11 +11,14 @@
   <a href="https://tenmeh.github.io/bones/"><img src="assets/hex/bones.png" alt="bones hex logo" height="130"></a>
   &nbsp;
   <a href="https://tenmeh.github.io/whence/"><img src="assets/hex/whence.png" alt="whence hex logo" height="130"></a>
+  &nbsp;
+  <a href="https://www.toptal.com/developers/resume/tanmay-chanda#ZZVV07"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/toptal/badge-dark.png"><img alt="Top 3% talent, vetted by Toptal. Hire me" src="assets/toptal/badge-light.png" height="130"></picture></a>
 </p>
 
 Hi, I'm Tanmay. I make R packages. I write about how I build them on
 [my blog](https://tenmeh.github.io). You can also find me on
-[LinkedIn](https://www.linkedin.com/in/tanmay-chanda/).
+[LinkedIn](https://www.linkedin.com/in/tanmay-chanda/). I am also available
+for freelance R and Shiny work through Toptal.
 
 ### Packages
 
