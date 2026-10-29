@@ -20,6 +20,9 @@ Hi, I'm Tanmay. I make R packages. I write about how I build them on
 [LinkedIn](https://www.linkedin.com/in/tanmay-chanda/). I am also available
 for freelance R and Shiny work through Toptal.
 
+The packages are free, and I build them in my own time. If they help you,
+you can [sponsor my work](https://github.com/sponsors/tenmeh).
+
 ### Packages
 
 <a href="https://github.com/tenmeh/rewind">
