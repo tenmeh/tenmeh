@@ -68,10 +68,10 @@ you can [sponsor my work](https://github.com/sponsors/tenmeh).
 ### Latest from the blog
 
 <!-- BLOG:START -->
+- [rewind 0.4.0: only what the page can put back](https://tenmeh.github.io/posts/2026-11-14-rewind-0-4-0/) <sub>14 Nov 2026</sub>
+- [bones 0.2.0: a skeleton that learns the page](https://tenmeh.github.io/posts/2026-11-13-bones-0-2-0/) <sub>13 Nov 2026</sub>
 - [A Quarto feed that R-bloggers can republish](https://tenmeh.github.io/posts/2026-11-06-quarto-feed-for-r-bloggers/) <sub>06 Nov 2026</sub>
 - [bones is on CRAN: two things the review caught](https://tenmeh.github.io/posts/2026-10-26-bones-on-cran/) <sub>26 Oct 2026</sub>
-- [Where did this number come from?](https://tenmeh.github.io/posts/2026-10-25-whence-on-cran/) <sub>25 Oct 2026</sub>
-- [Recording Shiny demos frame by frame](https://tenmeh.github.io/posts/2026-10-13-recording-shiny-demos/) <sub>13 Oct 2026</sub>
 <!-- BLOG:END -->
 
 <picture>
